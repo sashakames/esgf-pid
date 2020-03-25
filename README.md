@@ -15,5 +15,5 @@ Access to a RabbitMQ server with the necessary queues is required. The server da
 
 * Katharina Berger (DKRZ)
 
-* mauzey1
+* Christopher Mauzey (LLNL)
 
