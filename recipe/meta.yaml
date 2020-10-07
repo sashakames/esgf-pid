@@ -1,10 +1,10 @@
 package:
   name: esgfpid
-  version: 1.0.0a1
+  version: 0.8.0
 
 source:
-  git_rev: 0.8.0
-  git_url: https://github.com/saskahames/esgf-pid
+  git_rev: ska-rel
+  git_url: https://github.com/sashakames/esgf-pid
 
 build:
   number: 0
