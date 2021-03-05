@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 # Dependencies for using the library:
 dependencies = [
-    'pika>=1.0.1,<=1.1.0',
+    'pika>=1.0.1,<=1.2.0',
     'requests>=2.22.0'
 ]
 
@@ -48,7 +48,7 @@ except(IOError, ImportError):
 
 setup(
     name='esgfpid',
-    version='0.8.0',
+    version='0.8.1',
     author='Merret Buurman, German Climate Computing Centre (DKRZ)',
     author_email='buurman@dkrz.de',
     url='https://github.com/IS-ENES-Data/esgf-pid',
