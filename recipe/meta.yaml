@@ -19,14 +19,15 @@ requirements:
     - python
     - configparser
     - pika
+    - requests
 
 test:
   commands:
     - python -c "import esgfpid"
 
 about:
-  home: http://github.com/ESGF/esgf-config-parser
-  summary: ESGF Configuration Parser
+  home:	https://github.com/IS-ENES-Data/esgf-pid
+  summary: ESGF PID Module
   license: BSD
   license_file: LICENSE
 
